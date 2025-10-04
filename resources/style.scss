@@ -1,0 +1,8 @@
+/* You can add global styles to this file, and also import other style files */
+
+// tailwindcss configuration
+@use 'tailwindcss/index.css';
+
+/* Custom Styles */
+@use './scss/theme';
+@use './scss/base';
